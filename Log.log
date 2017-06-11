@@ -1,0 +1,92 @@
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: Trying to connect to 192.168.206.1:3232...
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: Connected to 192.168.206.1
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: IANAifType-MIB.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: ietf-inet-types.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: ietf-yang-types.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: IF-MIB.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: sampleyang.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: simple.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: SNMPv2-TC.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: test.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: toaster.yang was addded
+
+Apr 11, 2016 10:02:36 PM netconf.GetConnection connectToNE
+INFO: vyatta-firewall.yang was addded
+
+Apr 11, 2016 10:02:44 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded SNMPv2-TC.yang file
+Apr 11, 2016 10:02:45 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:02:45 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:02:48 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded SNMPv2-TC.yang file
+Apr 11, 2016 10:02:49 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:02:49 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:02:54 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded IANAifType-MIB.yang file
+Apr 11, 2016 10:02:54 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:02:54 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:02:55 PM netconf.TreeMaker initialize
+INFO: Creating IANAifType-MIB module tree.
+Apr 11, 2016 10:02:55 PM netconf.TreeMaker initialize
+INFO: Created JTree representing the IANAifType-MIB module.
+Apr 11, 2016 10:02:59 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded ietf-inet-types.yang file
+Apr 11, 2016 10:02:59 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:02:59 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:02:59 PM netconf.TreeMaker initialize
+INFO: Creating ietf-inet-types module tree.
+Apr 11, 2016 10:02:59 PM netconf.TreeMaker initialize
+INFO: Created JTree representing the ietf-inet-types module.
+Apr 11, 2016 10:03:03 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded SNMPv2-TC.yang file
+Apr 11, 2016 10:03:03 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:03:03 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:03:07 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded ietf-yang-types.yang file
+Apr 11, 2016 10:03:07 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:03:07 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:03:07 PM netconf.TreeMaker initialize
+INFO: Creating ietf-yang-types module tree.
+Apr 11, 2016 10:03:07 PM netconf.TreeMaker initialize
+INFO: Created JTree representing the ietf-yang-types module.
+Apr 11, 2016 10:03:09 PM netconf.NetConfBrowser createYangFile
+INFO: Downloaded SNMPv2-TC.yang file
+Apr 11, 2016 10:03:10 PM netconf.TreeMaker initialize
+INFO: Yang file parsed and Yin file created.
+Apr 11, 2016 10:03:10 PM netconf.TreeMaker initialize
+INFO: Yin file repaired.
+Apr 11, 2016 10:03:10 PM netconf.TreeMaker initialize
+INFO: Creating SNMPv2-TC module tree.
+Apr 11, 2016 10:03:10 PM netconf.TreeMaker initialize
+INFO: Created JTree representing the SNMPv2-TC module.
